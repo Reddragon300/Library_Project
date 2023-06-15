@@ -1,5 +1,6 @@
-# Library_Project
-A simple software system for a library models a library as a collection of books and patrons
+# Library Management System
+
+This is a Python program that models a simple library management system. It allows you to manage books and patrons, check out and return books, and perform various library-related operations.
 
 First Part - 
 A simple software system for a library models a library as a collection of books and patrons.
@@ -17,3 +18,30 @@ This class should include methods for adding, removing, and finding books and pa
 
 PART 3 - 
 Develop a Manager class that provides a menu-driven command processor for managing a library of the type developed in Part 2.
+
+
+## How to Use
+
+1. Clone the repository to your local machine using the following command:
+'git clone https://github.com/Reddragon300/Library_Project.git'
+
+2. Navigate to the project directory:
+'cd Library_Project'
+
+3. Install any required dependencies (if applicable).
+
+4. Run the program:
+'python main.py'
+
+5. Follow the on-screen menu to interact with the library management system.
+
+## Testing
+
+The program includes some basic tests to ensure the functionality of the classes. To run the tests, execute the following command in the project directory:
+'python test.py'
+
+
+The tests will validate the behavior of the Book and Patron classes, as well as the Library and Manager classes.
+
+Feel free to modify and extend the program as needed for your specific requirements.
+
