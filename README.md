@@ -23,23 +23,27 @@ Develop a Manager class that provides a menu-driven command processor for managi
 ## How to Use
 
 1. Clone the repository to your local machine using the following command:
-'git clone https://github.com/Reddragon300/Library_Project.git'
-
+```python
+git clone https://github.com/Reddragon300/Library_Project.git
+```
 2. Navigate to the project directory:
-'cd Library_Project'
+```python
+cd Library_Project
+```
+4. Install any required dependencies (if applicable).
 
-3. Install any required dependencies (if applicable).
-
-4. Run the program:
-'python main.py'
-
-5. Follow the on-screen menu to interact with the library management system.
+5. Run the program:
+```python
+python main.py
+```
+7. Follow the on-screen menu to interact with the library management system.
 
 ## Testing
 
 The program includes some basic tests to ensure the functionality of the classes. To run the tests, execute the following command in the project directory:
-'python test.py'
-
+```python
+python test.py
+```
 
 The tests will validate the behavior of the Book and Patron classes, as well as the Library and Manager classes.
 
